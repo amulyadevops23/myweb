@@ -2,3 +2,6 @@ Belongs to OPS team
 aws
 devops
 linux
+docker
+kubernetes
+ansible
